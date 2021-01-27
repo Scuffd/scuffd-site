@@ -1,10 +1,10 @@
 ---
-name: Onelastword
+name: Ryan Tablada
 id: onelastword
 image:
 coverImage:
 website:
-twitter:
+twitter: https://twitter.com/ryantablada
 facebook:
-location:
+location: Nashville, TN USA
 ---
