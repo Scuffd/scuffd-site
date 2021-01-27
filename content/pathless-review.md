@@ -1,6 +1,6 @@
 ---
 title: The Pathless - Review
-image: /images/advanced.jpg
+image: /images/Pathless.jpg
 imageMeta:
   attribution:
   attributionLink:
