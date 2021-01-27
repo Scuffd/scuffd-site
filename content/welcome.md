@@ -1,49 +1,34 @@
 ---
-title: Welcome to empress-blog
+title: Welcome to Scuffd
 image: /images/welcome.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
-tags:
-  - getting-started
+  - rhd16
+date: Tue Jan 26 2021 17:02:59 GMT+100 (IST)
 ---
 
-Hey! Welcome to empress-blog, it's great to have you :)
+Welcome to Scuffd Games, a podcast and group started by three friends who wanted to share their opinions on all things gaming! 
+We originally started out as a fantasy critic league, but quickly realized it could be fun for the world to hear our dumb opinions!
+In comes Scuffd, a place for us to share reviews, previews, and just our general thoughts on games and the games industry.
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
 
-### There are a few things that you should know up-front:
 
-1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
+Hi! I'm currently a college student at the University of Utah studying Journalism! I've been playing games since I was born,
+and am excited to share my passion for the art of games with everyone!  1
 
-1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
+ sdjhkgfasljkfldfdsahfa (put shit here)
 
-1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
 
-### Quick Start
+fdhjkgaksdfdsaf (put shit here)
 
-```bash
-# if you don't have ember-cli installed already
-npm install -g ember-cli
+### Who are we?:
 
-ember new super-blog
-cd super-blog
+### Riley "rhd16" Donoho
 
-ember install empress-blog empress-blog-casper-template
-```
+ ### Ryan Tablada 
 
-It will ask you if you want to update the `index.html` file and you should say yes 👍
-
-If you want to see the blog system running on your local machine just run `npm start` and you will
-be able to navigate to  [http://localhost:4200](http://localhost:4200) to see the blog in action.
-
----
-
-The main thing you'll want to read about next is probably: [editing files with empress-blog](/the-editor/).
-
-Once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!
+### Andrew "MissileMage" Mcduff
