@@ -1,7 +1,7 @@
 ---
 name: Ghost
 id: ghost
-image: /images/ghost-icon.png
+image: /images/Scuffed Logo.png
 cover:
 website: https://github.com/empress/empress-blog
 twitter:
