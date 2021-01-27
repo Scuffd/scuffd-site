@@ -1,0 +1,7 @@
+<li>
+  <button type="button" {{on "click" this.toggleOpen}}>{{if this.open ">" "•"}} {{@name}}</button>
+
+  {{#if this.open}}
+    <FileTree @tree={{this.subtreeData}} />
+  {{/if}}
+</li>

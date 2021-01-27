@@ -7,6 +7,10 @@ module.exports = function (environment) {
     rootURL: '/',
     locationType: 'auto',
 
+    GITHUB_CLIENT_ID: 'bb37d3fb26e6b198188a',
+    repo: 'scuffd/scuffd-site',
+    productionBranch: 'master',
+
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build

@@ -1,0 +1,11 @@
+<ul ...attributes>
+  {{#each-in @tree.directories as |dirName sha|}}
+    <FileTree::Directory @name={{dirName}} @sha={{sha}} />
+  {{/each-in}}
+
+  {{#each-in @tree.files as |file sha|}}
+    <li>
+      {{file}}
+    </li>
+  {{/each-in}}
+</ul>

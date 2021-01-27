@@ -1,0 +1,25 @@
+<div class="w-screen h-screen flex">
+  <div class="bg-gray-500 text-white flex flex-col w-80">
+    <h2 class="font-bold text-3xl px-4 py-2 m-0 border-b-2 border-solid border-gray-50">Branches</h2>
+    <ul class="flex-1 overflow-y-scroll">
+      <li class="p-0 m-0 border-b border-solid border-gray-50">
+        <LinkTo class="px-4 py-2 block" @route="admin.dashboard.revision" @model={{this.productionBranch.name}}>
+          {{this.productionBranch.name}}
+        </LinkTo>
+      </li>
+      {{#each this.draftBranches as |branch|}}
+        <li class="p-0 m-0 border-b border-solid border-gray-50">
+          <LinkTo class="px-4 py-2 block" @route="admin.dashboard.revision" @model={{branch.name}}>
+            {{branch.name}}
+          </LinkTo>
+        </li>
+      {{/each}}
+    </ul>
+
+    <button class="font-bold text-2xl bg-green-500 p-4 m-0 border-t border-0 border-solid border-gray-50" type="button">New Change Draft</button>
+  </div>
+
+  <div class="flex-1 overflow-y-scroll">
+    {{outlet}}
+  </div>
+</div>
