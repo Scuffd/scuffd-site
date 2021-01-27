@@ -1,10 +1,10 @@
 ---
-name: Missilemage
+name: Andrew MacDuff
 id: missilemage
 image:
 coverImage:
 website:
-twitter:
+twitter: Missilemage
 facebook:
-location:
+location: Scotland
 ---
