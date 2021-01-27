@@ -20,7 +20,7 @@ In comes Scuffd, a place for us to share reviews, previews, and just our general
 
 ### Riley "rhd16" Donoho
 Hi! I'm currently a college student at the University of Utah studying Journalism! I've been playing games since I was born,
-and am excited to share my passion for the art of games with everyone!
+and am excited to share my passion for the art of games with everyone!  1
 
  ### Ryan Tablada 
  sdjhkgfasljkfldfdsahfa (put shit here)
