@@ -1,10 +1,10 @@
 ---
-name: Rhd16
+name: Riley "rhd16" Donoho
 id: rhd16
 image:
 coverImage:
 website:
-twitter:
+twitter:twitter.com/rhd162248
 facebook:
-location:
+location: Salt Lake City, UT, USA
 ---
