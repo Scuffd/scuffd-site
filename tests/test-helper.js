@@ -1,5 +1,5 @@
-import Application from 'scuffed-site/app';
-import config from 'scuffed-site/config/environment';
+import Application from 'scuffd-site/app';
+import config from 'scuffd-site/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';
