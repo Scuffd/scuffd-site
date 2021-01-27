@@ -1,7 +1,7 @@
 ---
 name: Andrew MacDuff
 id: missilemage
-image:
+image: /images/Scuffed Logo.png
 coverImage:
 website:
 twitter: Missilemage
