@@ -33,6 +33,6 @@ exports.handler = async (event) => {
 
   return {
     statusCode: res.status,
-    body: await res.json(),
+    body: JSON.stringify(await res.json()),
   };
 };
