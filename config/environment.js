@@ -28,14 +28,12 @@ module.exports = function (environment) {
       description: 'Static Blog System - Built with Ember',
       coverImage: '/images/blog-cover.jpg',
 
-      navigation: [{
-        label: 'Home',
-        route: 'index'
-      }, {
-        label: 'Built by Chris Manson',
-        route: 'page',
-        id: 'chris-manson'
-      }]
+      navigation: [
+        {
+          label: 'Home',
+          route: 'index',
+        },
+      ],
     },
 
     'responsive-image': {
@@ -45,8 +43,8 @@ module.exports = function (environment) {
       supportedWidths: [2000, 1000, 600, 300],
       removeSourceDir: false,
       justCopy: false,
-      extensions: ['jpg', 'jpeg', 'png', 'gif']
-    }
+      extensions: ['jpg', 'jpeg', 'png', 'gif'],
+    },
   };
 
   if (environment === 'development') {
@@ -70,6 +68,7 @@ module.exports = function (environment) {
   }
 
   if (environment === 'production') {
+    ENV.blog.host = 'https://scuffd.games';
     // here you can enable a production-specific feature
   }
 
