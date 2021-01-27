@@ -8,7 +8,7 @@ const CORS = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'GET, POST, PUT',
   },
-  body: {},
+  body: '',
 };
 
 exports.handler = async (event) => {
