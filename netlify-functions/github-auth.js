@@ -33,6 +33,11 @@ exports.handler = async (event) => {
 
   return {
     statusCode: res.status,
+    headers: {
+      'content-type': 'application/json',
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, PUT',
+    },
     body: JSON.stringify(await res.json()),
   };
 };
