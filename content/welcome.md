@@ -8,8 +8,6 @@ featured: true
 authors:
   - rhd16
 date: Tue Jan 26 2021 17:02:59 GMT+100 (IST)
-tags:
-  - about us
 ---
 
 Welcome to Scuffd Games, a podcast and group started by three friends who wanted to share their opinions on all things gaming! 
