@@ -4,7 +4,7 @@ id: onelastword
 image:
 coverImage:
 website:
-twitter: https://twitter.com/ryantablada
+twitter: ryantablada
 facebook:
 location: Nashville, TN USA
 ---
