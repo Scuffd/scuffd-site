@@ -24,8 +24,8 @@ module.exports = function (environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Scuffd Games',
+      description: 'Three friends with bad gaming opinions',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [
