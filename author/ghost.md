@@ -1,5 +1,5 @@
 ---
-name: Ghost
+name: Scuffd
 id: ghost
 image: /images/Scuffed Logo.png
 cover:
