@@ -1,6 +1,6 @@
 ---
 title: Welcome to Scuffd
-image: /images/welcome.jpg
+image: /images/Scuffed Logo.png
 imageMeta:
   attribution:
   attributionLink:
