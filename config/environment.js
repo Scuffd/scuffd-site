@@ -33,6 +33,16 @@ module.exports = function (environment) {
           label: 'Home',
           route: 'index',
         },
+        {
+          label: 'Reviews',
+          route: 'tag',
+          id: 'review'
+        },
+        {
+          label: 'Previews',
+          route: 'tag',
+          id: 'preview'
+        }
       ],
     },
 

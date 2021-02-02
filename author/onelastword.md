@@ -1,7 +1,7 @@
 ---
 name: Onelastword
 id: onelastword
-image:
+image: /images/Scuffed Logo.png
 coverImage:
 website:
 twitter:
